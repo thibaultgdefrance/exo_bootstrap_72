@@ -1,0 +1,39 @@
+body {
+	background-image: url("https://abs.twimg.com/b/front_page/v1/EU_1.jpg");
+	position: fixed;
+}
+.container-fluide {
+	margin-top: 50px;
+	margin-left: 25%;
+}
+p {
+	font-size: 20px;
+	color: white;
+}
+h1 {
+	color: white
+}
+.champ {
+	width: 80%;
+}
+#champ {
+	background-color: white;
+	border-radius: 1%;
+	padding: 10px;
+}
+.col-md-3 {
+	margin-top: 10px;
+}
+input {
+	height: 40px;
+}
+img {
+	width:30px;
+}
+.pull-left{
+	background-color: lightgrey;
+}
+.container {
+	margin-left: 20%;
+	margin-top: 100px;
+}
