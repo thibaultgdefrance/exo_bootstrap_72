@@ -21,3 +21,11 @@
 #inscription {
 	font-size: 50px;
 }
+.large {
+	width: 70%;
+	height: 40px;
+}
+.large_2 {
+	height: 40px;
+	width: 34.5%;
+}
