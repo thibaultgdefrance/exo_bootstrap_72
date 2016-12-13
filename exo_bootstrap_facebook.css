@@ -15,5 +15,9 @@
 	padding-top: 100px;
 }
 .formulaire {
-	padding-top: 100px;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+#inscription {
+	font-size: 50px;
 }
