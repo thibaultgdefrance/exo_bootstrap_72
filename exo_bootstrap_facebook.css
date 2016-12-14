@@ -14,14 +14,15 @@ body {
 }
 .identifiant {
 	left: 400px;
+	top: 20px;
 }
 #logo2 {
-	padding-top: 100px;
-	right: 150px;
+	padding-top: px;
+	left: 150px;
 }
 .formulaire {
-	padding-top: 20px;
-	left: 200px;
+	padding-top: px;
+	left: 100px;
 }
 #inscription {
 	font-size: 50px;
@@ -46,5 +47,5 @@ label {
 	color: white;
 }
 .submit {
-	top: 30px
+	top: 50px
 }
