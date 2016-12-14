@@ -1,26 +1,27 @@
 body {
-	background-image: url(/home/thibault/Documents/img/panneau-saraille-designers-guild-02.png);
+	background-image: url();
 	padding: 0px;
 }
 #logo {
 	width: 150px;
 	margin-top: 0px;
+	height: 190px;
+	padding-bottom: 80px;
 }
 .header {
-	background-color: blue;
+	background-color: #2A56A1;
 	height: 90px;
 }
-#identifiant {
-	float: left;
-	padding-top: 20px;
+.identifiant {
+	left: 400px;
 }
 #logo2 {
-	width: 200px;
 	padding-top: 100px;
+	right: 150px;
 }
 .formulaire {
 	padding-top: 20px;
-	padding-left: 100px;
+	left: 200px;
 }
 #inscription {
 	font-size: 50px;
@@ -40,4 +41,10 @@ body {
 	background-color: white;
 	height: 50px;
 	font-size: 10px;
+}
+label {
+	color: white;
+}
+.submit {
+	top: 30px
 }

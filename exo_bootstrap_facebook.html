@@ -9,33 +9,46 @@
 <body>
 	<div class="container-fluid header">
 		<div class="row">
-			<div class="col-md-1">
+			<div id=logo class="col-md-5 col-md-offset-1">
+				<img id="logo" src="/home/thibault/Documents/img/new-facebook-logo-2015-400x400.png"/>
 			</div>
-			<div id=logo class="col-md-4">
-				<img id="logo" src="http://media02.hongkiat.com/logo-parodies/facebook_stalker.jpg"/>
+			<div class="col-md-6">
+				<div class="col-md-4 identifiant">
+					<div>
+						<label>identifiant</label>
+					</div>
+					<form>
+						<input name="email" type="email" value="" placehover="votre email"/>
+
+					</form>
+				</div>
+				<div class="col-md-4 identifiant">
+					<div>
+						<label>password</label>
+					</div>
+					<form>
+						<div>
+							<input name="password" type="password" value="" placehover="votre mot de passe"/>
+						</div>
+				</div>
+				<div class="col-md-4 identifiant submit">		
+						<div>
+							<input type="submit" value="connexion"/>
+						</div>
+					</form>
+			
+				</div>
 			</div>
-			<div class="col-md-4">
-			</div>
-			<div id=identifiant class="col-md-5">
-				<form>
-					<input name="email" type="email" value="" placehover="votre email"/>
-					<input name="password" type="password" value="" placehover="votre mot de passe"/>
-					<input type="submit" value="connexion"/>
-				</form>
-			</div>
-		</div>
 	</div>
 	
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-md-3">
-			</div>
-			<div class="col-md-3">
-			<img id="logo2" src="https://rlv.zcache.be/logo_de_la_parodie_fu_de_facebook_sticker_carre-r1e2d2e7f71264267a54976b41aa2aa8b_v9wf3_8byvr_324.jpg" />
+			<div class="col-md-2" id="logo2">
+				<img src="https://www.facebook.com/rsrc.php/v3/yx/r/pyNVUg5EM0j.png" />
 			</div>
 			<div class="col-md-6 formulaire">
-			<p id="inscription">Inscription</p>
-			<p id="gratuit">C’est gratuit (et ça le restera toujours)</p>
+				<p id="inscription">Inscription</p>
+				<p id="gratuit">C’est gratuit (et ça le restera toujours)</p>
 				<form>
 					<div class="large_3">
 						<input name="" type="text" value="" placeholder="prenom" class="large_2"/>
