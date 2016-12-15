@@ -11,8 +11,9 @@
 	border: solid grey 0.5px;
 	padding: 0px;
 	padding-top: 5px;
+	padding-left: 5px;
 }
-a {
+.link_header {
 	color: white;
 }
 .black {
@@ -26,9 +27,82 @@ a {
 	border: solid grey 0.5px;
 	padding: 0px;
 	width: 200px;
+	padding-top: 5px;
+	padding-left: 5px;
 }
 .section_recherche {
 	height: 40px;
 	background-color: white;
 	border: solid lightgrey 1px;
+}
+.petit_logo	{
+	width: 20px;
+	height: 20px;
+}
+.recherche {
+	padding-top: 10px;
+}
+.link2 {
+	color: grey;
+}
+.bar_de_recherche {
+	left: 25px;
+	top: 5px	
+}
+.logo_journal {
+	width: 300px;
+	height: 100px;
+}
+.mise_à_jour {
+	color: grey;
+	padding-top: 5px;
+}
+.international {
+	border-top: solid lightblue;
+	border-left: solid 1px lightgrey;
+	border-right: solid 1px lightgrey;
+	border-bottom: solid 1px lightgrey;	
+}
+.politique {
+	border-top: solid violet;
+	border-left: solid 1px lightgrey;
+	border-right: solid 1px lightgrey;
+	border-bottom: solid 1px lightgrey;	
+}
+.societe {
+	border-top: solid red;
+	border-left: solid 1px lightgrey;
+	border-right: solid 1px lightgrey;
+	border-bottom: solid 1px lightgrey;	
+	padding-right: 0px;
+}
+.eco {
+	border-top: solid orange;
+	border-left: solid 1px lightgrey;
+	border-right: solid 1px lightgrey;
+	border-bottom: solid 1px lightgrey;	
+}
+.culture {
+	border-top: solid pink;
+	border-left: solid 1px lightgrey;
+	border-right: solid 1px lightgrey;
+	border-bottom: solid 1px lightgrey;	
+}
+.idee {
+	border-top: solid green;
+	border-left: solid 1px lightgrey;
+	border-right: solid 1px lightgrey;
+	border-bottom: solid 1px lightgrey;	
+}
+.alignement {
+	padding-top: 10px;
+}
+.tirer_gauche {
+	padding-right: 100px;
+	padding-left: 0px;
+	border-left: 0px;
+}
+.tirer_droite {
+	border-right: 0px;
+	padding-right: 0px;
 }
