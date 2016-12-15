@@ -98,11 +98,31 @@
 	padding-top: 10px;
 }
 .tirer_gauche {
-	padding-right: 100px;
+	padding-right: 0px;
 	padding-left: 0px;
 	border-left: 0px;
+	border-right: 0px;
 }
 .tirer_droite {
 	border-right: 0px;
 	padding-right: 0px;
+}
+.edition_abonne {
+	background-color: gold;
+	border-top: yellow;
+}
+.titre_jaune {
+	padding-left: 0px;
+	border-left: 100px;
+}
+.menu2 {
+	background-color: #090F18;
+	height: 30px;
+	border-right: 100px; 
+}
+.la_une {
+	font-size: 40px;
+}
+p {
+	font-size: 20px
 }
