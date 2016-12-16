@@ -16,6 +16,9 @@ body {
 	padding-top: 5px;
 	padding-left: 5px;
 }
+.bouton:hover {
+	background-color: black;
+}
 .link_header {
 	color: white;
 }
@@ -64,13 +67,22 @@ body {
 	border-top: solid lightblue;
 	border-left: solid 1px lightgrey;
 	border-right: solid 1px lightgrey;
-	border-bottom: solid 1px lightgrey;	
+	border-bottom: solid 1px lightgrey;
+}
+.international:hover {
+	background-color: lightblue;
+}
+.white_link:hover {
+	color: white;
 }
 .politique {
 	border-top: solid violet;
 	border-left: solid 1px lightgrey;
 	border-right: solid 1px lightgrey;
 	border-bottom: solid 1px lightgrey;	
+}
+.politique:hover {
+	background-color: violet;
 }
 .societe {
 	border-top: solid red;
@@ -79,11 +91,17 @@ body {
 	border-bottom: solid 1px lightgrey;	
 	padding-right: 0px;
 }
+.societe:hover {
+	background-color: red;
+}
 .eco {
 	border-top: solid orange;
 	border-left: solid 1px lightgrey;
 	border-right: solid 1px lightgrey;
 	border-bottom: solid 1px lightgrey;	
+}
+.eco:hover {
+	background-color: orange;
 }
 .culture {
 	border-top: solid pink;
@@ -91,11 +109,17 @@ body {
 	border-right: solid 1px lightgrey;
 	border-bottom: solid 1px lightgrey;	
 }
+.culture:hover {
+	background-color: pink;
+}
 .idee {
 	border-top: solid green;
 	border-left: solid 1px lightgrey;
 	border-right: solid 1px lightgrey;
 	border-bottom: solid 1px lightgrey;	
+}
+.idee:hover {
+	background-color: green;
 }
 .alignement {
 	padding-top: 10px;
