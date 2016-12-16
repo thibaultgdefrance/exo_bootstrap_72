@@ -169,18 +169,18 @@ p {
 }
 .menu3 {
 	background-color: #090F18;
-	height: 300px;
+	height: 250px;
 	border-right: 100px; 
 }
 .videos {
-	font-size: 20px;
+	font-size: 15px;
 	color: white;
 }
 .vignette {
 	border: solid 1px lightgrey;
 }
 .petits_articles {
-	padding-top: 20px;
+	padding-top: 40px;
 }
 .inline-block {
 	display: inline-block;
