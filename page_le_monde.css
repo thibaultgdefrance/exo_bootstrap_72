@@ -124,5 +124,32 @@
 	font-size: 40px;
 }
 p {
-	font-size: 20px
+	font-size: 10px;
+}
+.article_1 {
+	font-size: 20px;
+}
+.titre_rouge {
+	background-color: red;
+	color: white;
+}
+.menu_droite {
+	padding-top: 50px;
+}
+.titre_bleu {
+	background-color: #5076A8;
+	color: white;
+	font-size: 20px;
+}
+.menu_droite_2 {
+	padding-top: 20px;
+}
+.menu_gris{
+	border: solid 1px lightgrey;
+	background-color: #F0F1F3;
+}
+.menu_gris_grand{
+	padding-bottom: 200px;
+	border: solid 1px lightgrey;
+	background-color: #F0F1F3;
 }
