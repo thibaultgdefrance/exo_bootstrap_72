@@ -17,7 +17,13 @@ body {
 	padding-left: 5px;
 }
 .bouton:hover {
-	background-color: black;
+	background-color: grey;
+}
+.hover-grey {
+	height: 30px;
+}
+.hover-grey:hover {
+	background-color: grey;
 }
 .link_header {
 	color: white;
@@ -116,7 +122,8 @@ body {
 	border-top: solid green;
 	border-left: solid 1px lightgrey;
 	border-right: solid 1px lightgrey;
-	border-bottom: solid 1px lightgrey;	
+	border-bottom: solid 1px lightgrey;
+	margin-left: 0px;
 }
 .idee:hover {
 	background-color: green;
