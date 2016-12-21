@@ -1,0 +1,49 @@
+body {
+	background-image:url("");
+}
+
+.photo {
+	height: 500px;
+	width: 350px;
+}
+
+.header-top {
+	opacity: 0.9;
+	height: 200px;
+	background-image:url("geo-shapes-black-1280b.jpg");
+	border-right: 0px;
+	padding-right: 30px;
+	top: 0px;
+	left: 0px;
+}
+.header {
+	height: 200px;
+	width: 100%;
+	position: fixed;
+	color: white;
+	padding-top: 10px;
+	margin-left: 360px;
+	margin-right: 0px;
+	left: 0px;
+	font-family: 'Playfair Display', serif;
+	top: 10px;
+}
+
+.thibault {
+	font-size: 50px;
+}
+.dev {
+	font-size: 30px;
+}
+.recap {
+	font-size: 20px;
+}
+.bar {
+	padding-left: 300px;
+}
+.bar_menu {
+	height: 35px;
+	background-color: DarkGrey;
+	border-top: solid 1px white;
+}
+
