@@ -5,6 +5,8 @@ body {
 .photo {
 	height: 500px;
 	width: 350px;
+	z-index: +1;
+	position: absolute;
 }
 
 .header-top {
@@ -38,12 +40,5 @@ body {
 .recap {
 	font-size: 20px;
 }
-.bar {
-	padding-left: 300px;
-}
-.bar_menu {
-	height: 35px;
-	background-color: DarkGrey;
-	border-top: solid 1px white;
-}
+
 
